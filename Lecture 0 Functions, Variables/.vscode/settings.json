@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 15,
+    "json.schemas": [
+    
+    ],
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    }
+}
